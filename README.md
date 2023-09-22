@@ -1,2 +1,2 @@
-# CSE_ENGINEERING_PROGRAMS
-contains programs that are usefull for engineering freeshers
+DATA STRUCTURE AND PROBLEM SOLVING THROUGH PROGRAMMING LAB COMPONENT 
+1st year Engineering Programs in C language 
