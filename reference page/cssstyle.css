@@ -1,0 +1,70 @@
+.training-section{
+    width: 100%;
+    padding-bottom: 50px;
+  }
+  .training-section h1{
+    text-align: center;
+    justify-content: left;
+    font-family: sans-serif;
+    padding: 25px 0px;
+    color:brown;
+  }
+  
+  .container1{
+    width:100%;
+    margin:auto;
+    text-wrap:balance;
+    flex-wrap: wrap;
+    display: flex;
+justify-content: space-around;
+    border: 1px solid brown ;
+
+  }
+  
+  .case1{
+    flex-basis: 22%;
+    margin: 10px 0px;
+    padding: 20px 0px;
+    text-align:center;
+    background-color: aliceblue;
+    box-shadow: 0px 0px 10px 3px lightgray;
+  }
+  .case1 h4,p{
+    text-align:start;
+  }
+  .case1 img{
+    max-width:95%;
+    border: 1px solid black;
+  }
+
+  .training-section h4{
+    padding: 10px 10px;
+    padding: 10px;
+  }
+
+  .training-section p{
+    font-size: 18px;
+    padding: 10px;
+  }
+  
+  .training-section button{
+    background-color: blue;
+    padding: 10px 25px;
+    color: aliceblue;
+    border:none;
+    border-radius: 10px;
+  }
+
+  .case1:hover{
+    background: lightslategray;
+  }
+
+  .case1:hover h4,.case1:hover p{
+    color: white;
+  }
+  .case1:hover button{
+
+    background-color:white;
+    color: lightslategray;
+  }
+  
